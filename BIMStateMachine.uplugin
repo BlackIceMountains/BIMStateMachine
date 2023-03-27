@@ -1,0 +1,24 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"FriendlyName" : "Black Ice Mountains - State Machine",
+	"Description" : "Generic state machine plugin.",
+	"Category" : "Logic",
+	"CreatedBy" : "Black Ice Mountains",
+	"CreatedByURL" : "http://bimgam.es",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"EnabledByDefault" : true,
+	"CanContainContent" : true,
+	"IsBetaVersion" : false,
+	"Installed" : false,
+	"Modules": [
+		{
+			"Name": "BIMStateMachine",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
